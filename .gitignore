@@ -1,0 +1,22 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Maven
+target/
